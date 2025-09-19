@@ -4,7 +4,7 @@ A responsive, modern product showcase website for a tech gadgets store, featurin
 
 ## 🌐 Live Demo
 
-[View Live Website](https://your-username.github.io/techgadgets-website/)
+[View Live Website](https://sundaymapunda.vercel.app/)
 
 ## 📋 Project Overview
 
@@ -82,10 +82,6 @@ techgadgets-website/
 
 1.  Clone or download the project files
 2.  Open `index.html` in your web browser
-
-### Live Demo
-
-The website is accessible using this link: https://sundaymapunda.vercel.app/
 
 📱 Browser Compatibility
 

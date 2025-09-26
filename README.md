@@ -4,7 +4,7 @@ A responsive, modern product showcase website for a tech gadgets store, featurin
 
 ## 🌐 Live Demo
 
-[View Live Website](https://sundaymapunda.vercel.app/)
+[View Live Website](https://sunday-techhub.vercel.app/)
 
 ## 📋 Project Overview
 
